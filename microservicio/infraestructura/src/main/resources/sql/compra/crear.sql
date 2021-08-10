@@ -1,0 +1,1 @@
+insert into compra (id_usuario, id_producto,total, descuento, codigo, fecha_creacion) values (:id_usuario, :id_producto, :total, :descuento, :codigo, :fechaCreacion)

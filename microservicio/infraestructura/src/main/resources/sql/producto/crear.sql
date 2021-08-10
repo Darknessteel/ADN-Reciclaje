@@ -1,0 +1,1 @@
+insert into producto (nombre, valor,fecha_creacion) values (:nombre, :valor, :fechaCreacion)
